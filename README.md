@@ -7,4 +7,5 @@ Projeto de análise de dados da NBA utilizando Python e técnicas de data analyt
 
 ## Links Úteis:
 -[Trello](https://trello.com/b/ea0ykm58/nba-data-analysis)
+
 -[Docs](https://docs.google.com/document/d/1S7XnixPSI5JdaRvLbMZ07ob7O_wcMD8FjfhliSjlziY/edit?tab=t.0)
