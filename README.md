@@ -1,5 +1,56 @@
-# NBA Data Analysis:
->Este projeto tem como objetivo realizar uma análise de dados baseada em estatísticas da NBA utilizando Python e técnicas de Data Analytics. A partir de datasets contendo informações sobre jogos e equipes, serão aplicadas etapas de coleta, limpeza, análise exploratória e visualização de dados para identificar padrões e tendências no desempenho das equipes. A análise busca responder à pergunta principal do projeto: quais equipes apresentam melhor desempenho jogando em casa em comparação com jogos fora de casa. Ao final, espera-se gerar métricas e gráficos que permitam interpretar essas diferenças de desempenho e compreender melhor o impacto do fator “casa” nos resultados das partidas.
+# NBA Data Analysis
+
+Este projeto analisa o desempenho das equipes da NBA, comparando jogos em casa e fora de casa.
+
+O objetivo é identificar padrões de desempenho e entender o impacto do fator casa nos resultados.  
+
+## Problema
+
+Existe diferença significativa no desempenho das equipes jogando em casa e fora de casa?
+
+Quais equipes são mais impactadas por esse fator?
+
+## Dados
+
+Foram utilizados dados de jogos da NBA contendo informações como:
+
+- Times mandantes e visitantes
+- Pontuação
+- Temporada
+- Resultado da partida
+
+## Etapas do projeto
+
+1. Coleta de dados
+2. Limpeza e tratamento
+3. Análise exploratória
+4. Comparação casa vs fora
+5. Visualizações
+
+## Principais insights
+
+- Times apresentam maior taxa de vitória jogando em casa
+- Algumas equipes mantêm desempenho consistente fora de casa
+- Outras dependem fortemente do fator casa
+
+## Visualizações
+
+### Taxa de vitória em casa
+![Home Win Rate](visualizations/home_win_rate.png)
+
+### Taxa de vitória fora
+![Away Win Rate](visualizations/away_win_rate.png)
+
+### Diferença casa vs fora
+![Comparison](visualizations/team_comparison.png)
+
+## Tecnologias utilizadas
+
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
 ## 👥 Integrantes:
 - [Eduardo Henrique](https://github.com/EduardoHenrique15)
 - [Rodrigo Torres](https://github.com/Rodrigotorres1)
