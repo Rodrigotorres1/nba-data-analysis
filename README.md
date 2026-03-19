@@ -33,26 +33,28 @@ Foram utilizados dados de jogos da NBA contendo informações como:
 - Algumas equipes mantêm desempenho consistente fora de casa
 - Outras dependem fortemente do fator casa
 
-## Visualizações
+## 📊 Visualizações
 
-### Comparação Média do Fator Casa
-![A Constância do Fator Casa](visualizations/evolucao_media_pontos.png)
+### 🏀 Comparação Média do Fator Casa
+[![A Constância do Fator Casa](visualizations/evolucao_media_pontos.png)](visualizations/evolucao_media_pontos.png)
 
-### Distribuiçãa Por Faixa de Pontuação e Localização
-![Taxa de Pontuação](visualizations/faixa_de_pontuacao.png)
+### 📈 Distribuição Por Faixa de Pontuação e Localização
+[![Taxa de Pontuação](visualizations/faixa_de_pontuacao.png)](visualizations/faixa_de_pontuacao.png)
 
-### Taxa de sucesso Casa vs Fora 
-![Taxa de Sucesso](visualizations/taxa_de_sucesso.png)
+### ✅ Taxa de sucesso Casa vs Fora
+[![Taxa de Sucesso](visualizations/taxa_de_sucesso.png)](visualizations/taxa_de_sucesso.png)
 
-### Comparação da Pontuação de Cada Equipe
-![Comparação Média](visualizations/comparacao_media.png) 
+### 📉 Comparação da Pontuação de Cada Equipe
+[![Comparação Média](visualizations/comparacao_media.png)](visualizations/comparacao_media.png)
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+| Tecnologia | Descrição |
+| :--- | :--- |
+| **Python** | Linguagem principal |
+| **Pandas** | Manipulação e análise de dados |
+| **Matplotlib** | Criação de gráficos |
+| **Jupyter** | Ambiente de desenvolvimento |
 
 ## 👥 Integrantes:
 - [Eduardo Henrique](https://github.com/EduardoHenrique15)
