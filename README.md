@@ -35,15 +35,18 @@ Foram utilizados dados de jogos da NBA contendo informações como:
 
 ## Visualizações
 
-### Taxa de vitória em casa
-![Home Win Rate](visualizations/home_win_rate.png)
+### Comparação Média do Fator Casa
+![A Constância do Fator Casa](visualizations/evolucao_media_pontos.png)
 
-### Taxa de vitória fora
-![Away Win Rate](visualizations/away_win_rate.png)
+### Distribuiçãa Por Faixa de Pontuação e Localização
+![Taxa de Pontuação](visualizations/faixa_de_pontuacao.png)
 
-### Diferença casa vs fora
-![Comparison](visualizations/team_comparison.png)
+### Taxa de sucesso Casa vs Fora 
+![Taxa de Sucesso](visualizations/taxa_de_sucesso.png)
 
+### Comparação da Pontuação de Cada Equipe
+![Comparação Média](visualizations/comparacao_media.png) 
+git push -u origin main
 ## Tecnologias utilizadas
 
 - Python
