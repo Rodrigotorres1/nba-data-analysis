@@ -46,7 +46,7 @@ Foram utilizados dados de jogos da NBA contendo informações como:
 
 ### Comparação da Pontuação de Cada Equipe
 ![Comparação Média](visualizations/comparacao_media.png) 
-git push -u origin main
+
 ## Tecnologias utilizadas
 
 - Python
