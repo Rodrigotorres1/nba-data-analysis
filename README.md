@@ -36,16 +36,20 @@ Foram utilizados dados de jogos da NBA contendo informações como:
 ## 📊 Visualizações
 
 ### 🏀 Comparação Média do Fator Casa
-👉 [Clique aqui para visualizar o gráfico: A Constância do Fator Casa](visualizations/evolucao_media_pontos.png)
+![Gráfico: A Constância do Fator Casa](visualizations/evolucao_media_pontos.png)
+> *Insight: Observa-se que a média de pontos das equipes jogando em casa se mantém consistentemente superior ao longo do tempo.*
 
-### 📈 Distribuição Por Faixa de Pontuação e Localização
-👉 [Clique aqui para visualizar o gráfico: Taxa de Pontuação](visualizations/faixa_de_pontuacao.png)
+### 📉 Distribuição Por Faixa de Pontuação e Localização
+![Gráfico: Taxa de Pontuação](visualizations/faixa_de_pontuacao.png)
+> *Insight: A distribuição mostra uma concentração maior em faixas de pontuação mais altas para os times mandantes.*
 
-### ✅ Taxa de sucesso Casa vs Fora
-👉 [Clique aqui para visualizar o gráfico: Taxa de Sucesso](visualizations/taxa_de_sucesso.png)
+### ✅ Taxa de Sucesso Casa vs Fora
+![Gráfico: Taxa de Sucesso](visualizations/taxa_de_sucesso.png)
+> *Insight: Fica evidente a vantagem do mando de quadra na taxa geral de vitórias das equipes.*
 
-### 📉 Comparação da Pontuação de Cada Equipe
-👉 [Clique aqui para visualizar o gráfico: Comparação Média das Equipes](visualizations/comparacao_media.png)
+### 📈 Comparação da Pontuação de Cada Equipe
+![Gráfico: Comparação Média das Equipes](visualizations/comparacao_media.png)
+> *Insight: Análise individual do impacto do fator casa no desempenho de cada franquia da liga.*
 
 ## 🛠️ Tecnologias Utilizadas
 
