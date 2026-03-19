@@ -36,16 +36,16 @@ Foram utilizados dados de jogos da NBA contendo informações como:
 ## 📊 Visualizações
 
 ### 🏀 Comparação Média do Fator Casa
-[![A Constância do Fator Casa](visualizations/evolucao_media_pontos.png)](visualizations/evolucao_media_pontos.png)
+👉 [Clique aqui para visualizar o gráfico: A Constância do Fator Casa](visualizations/evolucao_media_pontos.png)
 
 ### 📈 Distribuição Por Faixa de Pontuação e Localização
-[![Taxa de Pontuação](visualizations/faixa_de_pontuacao.png)](visualizations/faixa_de_pontuacao.png)
+👉 [Clique aqui para visualizar o gráfico: Taxa de Pontuação](visualizations/faixa_de_pontuacao.png)
 
 ### ✅ Taxa de sucesso Casa vs Fora
-[![Taxa de Sucesso](visualizations/taxa_de_sucesso.png)](visualizations/taxa_de_sucesso.png)
+👉 [Clique aqui para visualizar o gráfico: Taxa de Sucesso](visualizations/taxa_de_sucesso.png)
 
 ### 📉 Comparação da Pontuação de Cada Equipe
-[![Comparação Média](visualizations/comparacao_media.png)](visualizations/comparacao_media.png)
+👉 [Clique aqui para visualizar o gráfico: Comparação Média das Equipes](visualizations/comparacao_media.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
