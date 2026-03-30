@@ -23,15 +23,16 @@ Foram utilizados dados de jogos da NBA contendo informações como:
 
 1. Coleta de dados
 2. Limpeza e tratamento
-3. Análise exploratória
+3. Análise exploratória (EDA)
 4. Comparação casa vs fora
-5. Visualizações
+5. Visualização dos dados
 
 ## Principais insights
 
-- Times apresentam maior taxa de vitória jogando em casa
-- Algumas equipes mantêm desempenho consistente fora de casa
-- Outras dependem fortemente do fator casa
+- Times, em geral, possuem melhor desempenho jogando em casa
+- Algumas equipes apresentam queda significativa fora de casa
+- Outras mantêm desempenho consistente, indicando maior equilíbrio competitivo
+- O fator casa pode influenciar diretamente no resultado das partidas
 
 ## 📊 Visualizações
 
